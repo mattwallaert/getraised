@@ -39,7 +39,7 @@ p {
   }
 }
 a {
-  color: #3366ff;
+  color: #FF502D;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -47,7 +47,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #3366ff;
+  color: #FF502D;
 }
 .light {
   font-weight: 400;
@@ -256,16 +256,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #3366ff;
-  color: #3366ff;
+  border: 1px solid #FF502D;
+  color: #FF502D;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #3366ff;
+  border: 1px solid #FF502D;
   outline: none;
   color: black;
-  background-color: #3366ff;
+  background-color: #FF502D;
 }
 ul.banner-social-buttons {
   margin-top: 0;
@@ -312,5 +312,5 @@ body {
 }
 
 .ftc{
-  color:#3366ff;
+  color:#FF502D;
 }
